@@ -4,4 +4,4 @@ CSE student specializing in cybersecurity, currently building hands-on offensive
 
 🎯 Currently: Working through a structured offensive security roadmap — recon, web app security, network fundamentals
 🔭 Focused on: AppSec, bug bounty, penetration testing
-📫 Connect: [LinkedIn link]
+📫 Connect: https://www.linkedin.com/in/nikhil-yadav-098a73423/
